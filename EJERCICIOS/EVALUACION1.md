@@ -8,20 +8,20 @@ Indicaciones: Pedir responder cada una de las preguntas de manera correcta, brev
 clara, según sea el caso.
 
 1. Java es un lenguaje compilable, lo que significa que el código que escribimos es
-traducido a un lenguaje que la computadora entiende. (Valor 1 punto)
+traducido a un lenguaje que la computadora entiende. (Valor 1 punto) cierto.
 
         a. Falso
         b. Cierto
 
 2. En Java, ¿cuál es el propósito de escribir comentarios en el código? (Valor 1 punto)
-
+ Indican cómo se imprimen las palabras en la pantalla.
         a. Proporcionan notas legibles para humanos que aclaran el pensamiento.
         b. Proporcionan controles que el compilador debe pasar.
         c. Indican cómo se imprimen las palabras en la pantalla.
         d. Sólo están presentes en el código de compilación.
 
 3. El siguiente código se ejecutará sin error. (Valor 1 punto)
-
+ public static void main(String[] args){.
 public class LanguagesFacts{
 
   public static void main(String[] args){

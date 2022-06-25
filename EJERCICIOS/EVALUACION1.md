@@ -13,8 +13,9 @@ traducido a un lenguaje que la computadora entiende. (Valor 1 punto) cierto.
         a. Falso
         b. Cierto
 
-2. En Java, ¿cuál es el propósito de escribir comentarios en el código? (Valor 1 punto)
- Indican cómo se imprimen las palabras en la pantalla.
+2. En Java, ¿cuál es el propósito de escribir comentarios en el código? (Valor 1 punto
+ c. Indican cómo se imprimen las palabras en la pantalla.
+ 
         a. Proporcionan notas legibles para humanos que aclaran el pensamiento.
         b. Proporcionan controles que el compilador debe pasar.
         c. Indican cómo se imprimen las palabras en la pantalla.
@@ -22,7 +23,6 @@ traducido a un lenguaje que la computadora entiende. (Valor 1 punto) cierto.
 
 3. El siguiente código se ejecutará sin error. (Valor 1 punto)
  public static void main(String[] args){.
-public class LanguagesFacts{
 
   public static void main(String[] args){
   
@@ -43,7 +43,8 @@ public class HelloYou{
 
   public static void main(String[] args){
   
-   System.out.println("¡Hola amigo!");
+   System.out.println("¡Hola amigo!");   c. "¡Hola amigo!"
+
     
   }
   
@@ -60,7 +61,7 @@ public class HechosLenguaje{
 
   // Cubre la historia del lenguaje de programación Java.
   
-}
+} b. La línea para compilar código: javac HechosLenguaje.java
 
           a. Las llaves que marcan el alcance de la clase.
           b. La línea para compilar código: javac HechosLenguaje.java

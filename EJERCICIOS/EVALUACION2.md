@@ -8,27 +8,28 @@ Indicaciones: Pedir responder cada una de las preguntas de manera acertada, brev
 clara, según sea el caso.
 
 1. ¿Cuál de las siguientes líneas arrojaría un error de compilación? (Valor 1 punto)
+ d. char grade_on_test = 'F';
 
           a. int balance = -30;
           b. double isRaining = false;
           c. String gradeOnTest = "A";
           d. char grade_on_test = 'F';
 
-2. ¿Cuál de los siguientes valores es un char válido? (Valor 1 punto)
+2. ¿Cuál de los siguientes valores es un char válido? (Valor 1 punto)  a. "a"
 
           a. "a"
           b. 'ab'
           c. 'F'
           d. 7
 
-3. ¿A qué tipo de datos solo se le puede asignar uno de dos valores? (Valor 1 punto)
+3. ¿A qué tipo de datos solo se le puede asignar uno de dos valores? (Valor 1 punto)   c. boolean
 
           a. char
           b. double
           c. boolean
           d. int
 
-4. ¿Qué línea declara la variable bestProgrammingLanguage y la inicializa para que
+4. ¿Qué línea declara la variable bestProgrammingLanguage y la inicializa para que            a. bestProgrammingLanguage = String "Java";
 sea "Java"? (Valor 1 punto)
 
           a. bestProgrammingLanguage = String "Java";
@@ -37,7 +38,7 @@ sea "Java"? (Valor 1 punto)
           d. "Java" = String bestProgrammingLanguage;
 
 
-5. ¿Qué opción es un nombre de variable válido y sigue las convenciones de
+5. ¿Qué opción es un nombre de variable válido y sigue las convenciones de    b. TimeUntilLaunch
 nomenclatura de Java? (Valor 1 punto)
 
           a. 2ndPhoneNumber
@@ -45,7 +46,7 @@ nomenclatura de Java? (Valor 1 punto)
           c. second_phone_number
           d. timeUntilLaunch
 
-6. ¿Qué línea de código declara una variable llamada numConejos para almacenar
+6. ¿Qué línea de código declara una variable llamada numConejos para almacenar   a. numConejos = int;
 un número entero? (Valor 1 punto)
 
           a. numConejos = int;
@@ -53,7 +54,7 @@ un número entero? (Valor 1 punto)
           c. number numConejos;
           d. int numConejos;
 
-7. ¿Qué valor NO se puede asignar a una variable con el tipo de datos double? (Valor
+7. ¿Qué valor NO se puede asignar a una variable con el tipo de datos double? (Valor    d. -.2
 1 punto)
 
           a. "60"
@@ -63,7 +64,7 @@ un número entero? (Valor 1 punto)
 
 8. Supón que tienes un programa llamado Creador.java y dentro de este hemos
 definido algunas variables relacionadas a James Gosling, el creador de Java como
-se muestra a continuación: (Valor 2 puntos)
+se muestra a continuación: (Valor 2 puntos)   
 
                     public class Creator {
 
@@ -76,6 +77,13 @@ se muestra a continuación: (Valor 2 puntos)
                       }
 
                     }
+     . Escribe la salida.
+
+
+      Salida:
+      James Gosling
+      1995               
+                    
 
 a. Dentro de main(), use System.out.println() para imprimir la variable
 nombre.
@@ -102,7 +110,10 @@ tenemos el siguiente código definido: (Valor 2 puntos)
                     //Este es el final de la class
                   }
                 //Esto está afuera de la clase
+c. Escribe la salida.
 
+      Salida:
+      6
 El archivo ContComentarios.java tiene varios comentarios.
 
 a. En tu cabeza, cuenta el número de comentarios. Luego, dentro del método main(),
@@ -126,6 +137,8 @@ archivo es CuotaMercado.java: (Valor 2 puntos)
 
 Al año 2022, Android tiene el 70.97 por ciento de la cuota de mercado de los sistemas
 operativos móviles.
+b. Imprime en valor de androidShare en la consola.
+
 
 a. Crea una variable llamada androidCuota que contenga este porcentaje como un
 double.
@@ -144,6 +157,8 @@ archivo es Booleans.java: (Valor 2 puntos)
                 public static void main(String[] args) {
                 }
               }
+              b. Imprime la variable intsPuedeAlmacenarDecimales.
+
 
 a. Crea una variable llamada intsPuedeAlmacenarDecimales. Ponlo en verdadero
 (True) si el tipo int puede contener un número decimal. Ponlo en falso (false) si el
@@ -163,6 +178,7 @@ archivo es Char.java: (Valor 2 puntos)
                 public static void main(String[] args) {
                 }
               }
+              c. Imprime en la terminal el valor de la variable primerLetra.
     
 a. Escribe como comentario de una sola línea tu nombre
 
@@ -184,7 +200,7 @@ archivo es Poema.java: (Valor 2 puntos)
                 public static void main(String[] args) {
                 }
               }
-    
+    b. Invoca System.out.println() para imprimir el valor de la variable verso.
 a. Crea una variable llamada verso de tipo string y almacena ahí el verso “Aquí no
 suceden cosas de mayor trascendencia que las rosas.”.
 
@@ -204,7 +220,9 @@ archivo es MiPerfil.java: (Valor 3 puntos)
 
                 }
               }
-    
+              f. Iimprime el valor de cada una de las variables, una por cada línea.
+
+  
 El archivo MiPerfil.java contiene una clase que representa tu perfil de contratación que
 se presentará a potenciales empleadores.
 

@@ -8,13 +8,13 @@ Indicaciones: Pedir responder cada una de las preguntas de manera correcta, brev
 clara, según sea el caso.
 
 1. Java es un lenguaje compilable, lo que significa que el código que escribimos es
-traducido a un lenguaje que la computadora entiende. (Valor 1 punto) cierto.
+traducido a un lenguaje que la computadora entiende. (Valor 1 punto)   b. Cierto
 
         a. Falso
         b. Cierto
 
 2. En Java, ¿cuál es el propósito de escribir comentarios en el código? (Valor 1 punto
- c. Indican cómo se imprimen las palabras en la pantalla.
+  a. Proporcionan notas legibles para humanos que aclaran el pensamiento.
  
         a. Proporcionan notas legibles para humanos que aclaran el pensamiento.
         b. Proporcionan controles que el compilador debe pasar.
@@ -22,9 +22,9 @@ traducido a un lenguaje que la computadora entiende. (Valor 1 punto) cierto.
         d. Sólo están presentes en el código de compilación.
 
 3. El siguiente código se ejecutará sin error. (Valor 1 punto)
- public static void main(String[] args){.
+ 
 
-  public static void main(String[] args){
+  public static void main(String[] args){   a. Cierto
   
   System.out.println("Las clases Java tienen un método 'main()'.")
 
@@ -43,7 +43,7 @@ public class HelloYou{
 
   public static void main(String[] args){
   
-   System.out.println("¡Hola amigo!");   c. "¡Hola amigo!"
+   System.out.println("¡Hola amigo!");   a. ¡Hola amigo!
 
     
   }
@@ -61,7 +61,7 @@ public class HechosLenguaje{
 
   // Cubre la historia del lenguaje de programación Java.
   
-} b. La línea para compilar código: javac HechosLenguaje.java
+}     d. El método main().
 
           a. Las llaves que marcan el alcance de la clase.
           b. La línea para compilar código: javac HechosLenguaje.java
@@ -80,6 +80,7 @@ public class HolaMundo{
   }
   
 }
+ c. HolaMundo.class
 
           a. HolaMundo.java
           b. No hay restricciones en el nombre del archivo en Java.
@@ -89,7 +90,7 @@ public class HolaMundo{
 Mi_Nombre!” donde “Mi_Nombre” sea tú nombre. (Valor 2 punto)
 
         public class HolaTu {
-          public static void main(String[] args) {
+          public static void main(String[] args) { ("hola mi nombre es federico")
           }
           }
 
@@ -108,7 +109,12 @@ public class LasEscondidas {
     
   }
   
-}
+}  
+          a. Debajo de la declaración de impresión System.out.println("Juguemos a las
+          escondidas");, usando System.out.print(), genera las siguientes dos declaraciones:
+
+          "Tres..."
+          
 
           a. Debajo de la declaración de impresión System.out.println("Juguemos a las
           escondidas");, usando System.out.print(), genera las siguientes dos declaraciones:
@@ -137,6 +143,9 @@ texto sin formato. (Valor 2 puntos)
                 System.out.println("¡Eres un lenguaje divertido!");
               }
             }
+            b. Usa la sintaxis de varias líneas para convertir estas líneas en un solo comentario:
+James Gosling es un ingeniero canadiense que
+creó Java mientras trabajaba en Sun Microsystems.
 
 Usa comentarios para evitar detener la ejecución del programa por el texto sin formato.
 

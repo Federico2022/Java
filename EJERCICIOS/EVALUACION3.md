@@ -7,14 +7,14 @@ de java mediante preguntas de opción múltiple y ejercicios para desarrollar su
 Indicaciones: Pedir responder cada una de las preguntas de manera acertada, breve y
 clara, según sea el caso.
 
-1. La expresión 5 != 6 , ¿qué valor arrojará? (Valor 1 punto)
+1. La expresión 5 != 6 , ¿qué valor arrojará? (Valor 1 punto)c. true
 
           a. 6
           b. false
           c. true
           d. 5
 
-2. ¿Qué hace el siguiente código? (Valor 1 punto)
+2. ¿Qué hace el siguiente código? (Valor 1 punto)c. Imprime 8.
 System.out.println(8 <= 8);
 
           a. Imprime false.
@@ -22,7 +22,7 @@ System.out.println(8 <= 8);
           c. Imprime 8.
           d. Imprime 0.
 
-3. ¿Cómo podríamos obtener un resultado de 10, dada la siguiente variable? (Valor 1
+3. ¿Cómo podríamos obtener un resultado de 10, dada la siguiente variable? (Valor 1d. a % 10
 punto)
 
 double a = 2;
@@ -33,7 +33,7 @@ double a = 2;
           d. a % 10
 
 
-4. ¿Cuál es la mejor manera de saber si las siguientes dos cadenas son iguales?
+4. ¿Cuál es la mejor manera de saber si las siguientes dos cadenas son iguales?  a. username1 == username2
 (Valor 1 punto)
 
 String username1 = "teracoder";
@@ -46,7 +46,7 @@ String username2 = "gigacoder";
           d. username1.equals(username2)
 
 
-5. ¿Qué operador se puede usar para concatenar dos strings? (Valor 1 punto)
+5. ¿Qué operador se puede usar para concatenar dos strings? (Valor 1 punto) b. .equals()
 
           a. *
           b. .equals()
@@ -56,7 +56,7 @@ String username2 = "gigacoder";
 
 6. ¿Hay algún error en la siguiente declaración en Java? (Valor 1 punto)
 
-int status = 7 < 8;
+int status = 7 < 8;  d. No hay error.
 
           a. Sí, int debería se char.
           b. Sí, int debería ser boolean.
@@ -65,7 +65,7 @@ int status = 7 < 8;
 
 7. ¿Cuál es el resultado de la siguiente concatenación de cadenas? (Valor 1 punto)
 
-"Son las " + 5 + "pm"
+"Son las " + 5 + "pm" c. "Son las 5pm" ---
 
           a. "Son las pm"
           b. Error
@@ -76,7 +76,7 @@ int status = 7 < 8;
 8. Después de ejecutar el siguiente código, ¿cuál será el valor de la variable
 endpoint? (Valor 1 punto)
 
-int endpoint = 11 % 3;
+int endpoint = 11 % 3;  c. 2.66
 
           a. 1
           b. 11
@@ -93,7 +93,8 @@ Considera el siguiente código (Valor 2 puntos)
                 double saldo = 1000.75;
                 double cantidadARetirar= 250;
               }
-            }
+            }  a. Crea una nueva variable double llamada saldoActualizado y
+almacene saldo con cantidadARetirar restada de él.
 
 a. Crea una nueva variable double llamada saldoActualizado y
 almacene saldo con cantidadARetirar restada de él.
